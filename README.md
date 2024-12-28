@@ -2,7 +2,7 @@
 
 <hr>
 
-**Empower Your Job Search with AI-Driven Practice**
+**Empower Your Job Interview preparation with AI-Driven Practice**
 
 This advanced and interactive platform leverages the power of Artificial Intelligence (AI) to simulate real-world interview scenarios, equipping you with the skills and confidence to ace your next job interview.
 
