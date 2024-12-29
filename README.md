@@ -51,14 +51,14 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
 
 ## **Tech Stack**
 
-* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Next.js_logo.svg/1200px-Next.js_logo.svg.png" alt="Next.js Logo" style="height: 20px; vertical-align: middle;"> Next.js:** A powerful React framework for crafting modern web applications with server-side rendering and static generation capabilities. Next.js allows you to build performant and scalable web applications with ease.
-* **<img src="https://tailwindcss.com/img/logo.svg" alt="Tailwind CSS Logo" style="height: 20px; vertical-align: middle;"> Tailwind CSS:** A utility-first CSS framework that streamlines the development process by providing pre-built components and classes.  Tailwind CSS helps you rapidly build custom designs without writing a lot of CSS boilerplate.
-* **<img src="https://www.javascript.com/favicon.ico" alt="JavaScript Logo" style="height: 20px; vertical-align: middle;"> JavaScript:**  A high-level, interpreted programming language that can be used to create interactive effects within web browsers. It is often abbreviated as JS.
-* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/PostgreSQL_elephant.svg/1200px-PostgreSQL_elephant.svg.png" alt="PostgreSQL Logo" style="height: 20px; vertical-align: middle;"> PostgreSQL:** A robust and open-source object-relational database management system for storing and managing your platform's data.
-* **<img src="https://www.neon.tech/static/images/neon-logo.svg" alt="Neon Serverless Logo" style="height: 20px; vertical-align: middle;"> Neon Serverless:** A serverless deployment solution for PostgreSQL, offering scalability and simplified management. 
-* **<img src="https://drizzle-orm.org/img/drizzle-logo.svg" alt="Drizzle ORM Logo" style="height: 20px; vertical-align: middle;"> Drizzle ORM:** An object-relational mapper (ORM) that simplifies database interactions within your application.
-* **<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Stripe_Logo_%282016%29.svg/1200px-Stripe_Logo_%282016%29.svg.png" alt="Stripe Logo" style="height: 20px; vertical-align: middle;"> Stripe:** A secure and comprehensive payment processing platform that can be integrated to enable seamless subscription or pay-per-use options for your mock interview service.
-* **<img src="https://www.clerk.dev/assets/img/logo.svg" alt="Clerk Logo" style="height: 20px; vertical-align: middle;"> Clerk:** A user management API that simplifies user registration, authentication, and authorization for your web applications.
+* **Next.js:** A powerful React framework for crafting modern web applications with server-side rendering and static generation capabilities. Next.js allows you to build performant and scalable web applications with ease.
+* **Tailwind CSS:** A utility-first CSS framework that streamlines the development process by providing pre-built components and classes.  Tailwind CSS helps you rapidly build custom designs without writing a lot of CSS boilerplate.
+* **JavaScript:**  A high-level, interpreted programming language that can be used to create interactive effects within web browsers. It is often abbreviated as JS.
+* **PostgreSQL:** A robust and open-source object-relational database management system for storing and managing your platform's data.
+* **Neon Serverless:** A serverless deployment solution for PostgreSQL, offering scalability and simplified management. 
+* **Drizzle ORM:** An object-relational mapper (ORM) that simplifies database interactions within your application.
+* **Stripe:** A secure and comprehensive payment processing platform that can be integrated to enable seamless subscription or pay-per-use options for your mock interview service.
+* **Clerk:** A user management API that simplifies user registration, authentication, and authorization for your web applications.
 ---
 
 ## **How to Use the Platform**
