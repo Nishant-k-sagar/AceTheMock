@@ -108,8 +108,6 @@ To get started with the AI-Powered Mock Interview Platform, follow these steps:
   A user management API that simplifies user registration, authentication, and authorization for your web applications.
 
 
-
->>>>>>> 86be621 (updating README)
 ---
 
 ## **How to Use the Platform**
